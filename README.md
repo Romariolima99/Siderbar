@@ -21,10 +21,10 @@ Estrutura flexível e fácil de personalizar para atender às suas necessidades.
 
 # Estrutura de Arquivos
 
-´index.html´: O arquivo HTML principal que define a estrutura da página.
-´styles.css´: O arquivo CSS que controla o estilo da barra lateral e dos menus suspensos.
-´script.js´: O arquivo JavaScript que adiciona interatividade aos menus suspensos.
-assets/´: Pasta que contém a imagem e ícones usados no projeto.
+- `index.html`: O arquivo HTML principal que define a estrutura da página.
+- `styles.css`: O arquivo CSS que controla o estilo da barra lateral e dos menus suspensos.
+- `script.js`: O arquivo JavaScript que adiciona interatividade aos menus suspensos.
+- `assets`: Pasta que contém a imagem e ícones usados no projeto.
 
 
  <img src="https://i.imgur.com/CkW6sMu.png" alt="GIF" data-canonical-src="https://i.imgur.com/CkW6sMu.png" style="max-width: 50%;">
